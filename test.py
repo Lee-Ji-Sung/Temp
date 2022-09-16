@@ -13,5 +13,5 @@ if __name__ == "__main__":
     print(np.asarray(pcd.points))
     o3d.visualization.draw_geometries([pcd])
     
-    
+    print(f'Temp - test.py file..')
     print(f"test file...")
